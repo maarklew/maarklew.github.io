@@ -11,14 +11,14 @@ header{
     width: 100%;
 }
 .kode-topbar {
-    background-color: #195d10;
+    background-color: #004f6d;
     float: left;
     font-size: 13px;
     position: relative;
     width: 100%;
 }
 .kode-topbar::before {
-    background-color: #009c00;
+    background-color: #00182f;
     content: "";
     height: 100%;
     position: absolute;
@@ -27,7 +27,7 @@ header{
     width: 50%;
 }
 .kode-topbar::after {
-    border-bottom: 39px solid #009c00;
+    border-bottom: 39px solid #00182f;
     border-left: 30px solid transparent;
     content: "";
     position: absolute;
