@@ -27,7 +27,7 @@ header{
     width: 50%;
 }
 .kode-topbar::after {
-    border-bottom: 39px solid #00182f;
+    border-bottom: 39px solid #004f6d;
     border-left: 30px solid transparent;
     content: "";
     position: absolute;
