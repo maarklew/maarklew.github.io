@@ -11,14 +11,14 @@ header{
     width: 100%;
 }
 .kode-topbar {
-    background-color: #195d10;
+    background-color: #004f6d;
     float: left;
     font-size: 13px;
     position: relative;
     width: 100%;
 }
 .kode-topbar::before {
-    background-color: #009c00;
+    background-color: #00182f;
     content: "";
     height: 100%;
     position: absolute;
@@ -27,7 +27,7 @@ header{
     width: 50%;
 }
 .kode-topbar::after {
-    border-bottom: 39px solid #009c00;
+    border-bottom: 39px solid #00182f;
     border-left: 30px solid transparent;
     content: "";
     position: absolute;
@@ -47,7 +47,7 @@ header{
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 }
 .kode_bg_white strong {
-    color: #fff;
+    color: #e1b642;
 }
 .kode-userinfo {
     float: right;
@@ -106,13 +106,13 @@ header{
     list-style: outside none none;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #eb1a1a;
+    color: #00182f;
 }
 .navbar-nav > li:first-child > a {
     padding-left: 0;
 }
 .navbar-nav > li > a {
-    color: #ffffff;
+    color: #e1b642;
     font-size: 14px;
     font-weight: bold;
     overflow: hidden;
@@ -123,7 +123,7 @@ header{
 .navbar-nav > li > a::before {
     border-radius: 40px 40px 0 0;
     bottom: 0;
-    color: #ffffff;
+    color: #e1b642;
     content: "";
     font-family: FontAwesome;
     font-size: 9px;
@@ -141,7 +141,7 @@ header{
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
-    border-color: #eb1a1a #eb1a1a -moz-use-text-color;
+    border-color: #00182f #00182f -moz-use-text-color;
     border-image: none;
     border-radius: 40px 40px 0 0;
     border-style: solid solid none;
@@ -2284,7 +2284,7 @@ blockquote {
     position: relative;
 }
 .kode-navigation ul li a {
-    color: #fff;
+    color: #e1b642;
     display: block;
     font-size: 14px;
     font-weight: bold;

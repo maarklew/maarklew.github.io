@@ -14,10 +14,10 @@
 */
 body {
     color: #505050;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Nexa Light';
     font-size: 14px;
     font-weight: normal;
-    background-color: #ffffff;
+    background-color: #e1b642;
 }
 /* Global Typography */
 
@@ -276,15 +276,15 @@ address {
     font-family: 'Open Sans', sans-serif;    
 }
 ::selection {
-    background: #eb1a1a;
+    background: #004f6d;
     color:#ffffff;
 }
 ::-webkit-selection {
-    background: #eb1a1a;
+    background: #004f6d;
     color: #ffffff;
 }
 ::-moz-selection {
-    background: #eb1a1a;
+    background: #004f6d;
     color: #ffffff;
 }
 audio, video {
