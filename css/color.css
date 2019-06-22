@@ -5,7 +5,7 @@
 .kode-recent-blog > ul > li:hover h6 a,.widget-recent-news ul li:hover h6 a,.widget_categories ul li:hover a,
 .widget_categories ul li:hover a:before,.kode-related-blog ul li:hover h6 a,
 .kode-gallery ul li:hover h2 a,.player-nav li.active a,.fixer-pagination a:hover,.next-prev-style .owl-nav div {
-    color: #195D10 !important;
+    color: #004f6d !important;
 }
 
 .heading-12 span.left, .heading-12 span.right, .thbg-color,.thbg-colorhover:hover,.navbar-nav > li > a:before,.owl-nav div:hover,.kode-team-network li a:hover,
@@ -13,7 +13,7 @@
 .kode-blog-list ul li:hover .kode-time-zoon time,.kode-blog-list ul li:hover .kode-time-zoon:before,.kode-bottom-footer,
 .children > li:hover > a,.pagination a:hover,.pagination span,.widget-tabnav li a:before,.widget-recent-news ul li:hover time,
 .kode-table caption,.shop-btn a:hover,.fixer-btn a:hover,.kode-underconstruction .kode-innersearch form input[type="submit"] {
-    background-color: #195D10;
+    background-color: #004f6d;
 }
 .next-prev-style .owl-nav div,
 .th-bordercolor,.th-bordercolorhover:hover,.kd-headbar,.kode-section-title h2,.owl-nav div:hover,
@@ -21,10 +21,10 @@
 .kode-simple-form ul li input[type="submit"],.children,.kode-grid-blog .kode-blog-info:before,.kode-modrenbtn:hover,
 .kode-widget-title h2,.widget-recent-news ul li:hover time,blockquote,.kode-inner-fixer,
 #koderespond form p input[type="button"],#koderespond form p input[type="submit"],.kode-header-three .navbar-nav > li > a::before {
-    border-color: #195D10 !important;
+    border-color: #004f6d !important;
 }
 .tab-widget {
-    box-shadow: 0px 2px 0px 0px #195D10,0px 2px 0px 0px #195D10 inset;
+    box-shadow: 0px 2px 0px 0px #004f6d,0px 2px 0px 0px #004f6d inset;
 }
 
 
@@ -32,32 +32,32 @@
 .kode-result-list article:before,
 .kode-testimonial figure:before,
 .countdown-amount:before{
-    border-top-color: #195D10;
+    border-top-color: #004f6d;
 }
 /* 2nd ThemeColor */
 .thcolortwo,.thcolortwohover:hover,.kode-medium-blog >ul >li:hover h5 a,.kode-medium-blog .kode-blog-options li a:hover {
-    color: #ffe325;
+    color: #e1b642;
 }
 .subheader-height:after{
-    border-bottom-color: #195d10;
+    border-bottom-color: #004f6d;
 }
 .subheader-height:before{
-    background: #195d10;
+    background: #004f6d;
 }
 .kode-subheader{
-    background:#009c00;
+    background:#00182f;
 }
 .thbg-colortwo,.thbg-colortwohover:hover,#mainbanner .flex-control-paging li a.flex-active,.kode-pro-inner:hover .kode-pro-info,
 .kode-medium-blog >ul >li:hover .medium-info time, .kode-caption h2{
-    background-color: #ffe325;
+    background-color: #e1b642;
 }
 .kode-caption h2:before, .kode-caption h2:after{
-    border-bottom-color: #ffe325;
+    border-bottom-color: #e1b642;
 }
 
 .kode-modren-btn, .th-bordertwocolor,.th-bordercolortwohover:hover,.kode-medium-blog,.kode-medium-blog >ul >li:hover .medium-info time,
 .kode-loginform p input[type="submit"] {
-    border-color: #ffe325;
+    border-color: #e1b642;
 }
 
 /*
