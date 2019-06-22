@@ -412,7 +412,7 @@ header{
 }
 .kode-modren-btn {
     border: 7px solid #e1b642;
-    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3) inset;
+    /* box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3) inset; */
     color: #002f41;
     display: inline-block;
     font-family: nexa;
@@ -712,8 +712,8 @@ header{
     margin-left: 3px;
 }
 .kode-team-network li a {
-    border: 1px solid #e6e6e6;
-    color: #999999;
+    border: 1px solid #002f41;
+    color: #002f41;
     display: inline-block;
     height: 26px;
     padding: 5px 0 0;
@@ -728,12 +728,15 @@ header{
     text-transform: uppercase;
 }
 .kode-team-list figure figcaption h2 a {
-    background-color: #333;
-    border: 4px solid #333;
-    box-shadow: 0 0 0 1px #fff inset;
-    color: #ffffff;
+    background-color: #002f41;
+    border: 4px solid #002f41;
+    box-shadow: 0 0 0 1px #e1b642 inset;
+    color: #e1b642;
     display: inline-block;
     padding: 14px 42px 15px;
+    font-family: nexa;
+    font-weight: bold;
+    font-size: 18px;
 }
 .kode-team-list .kode-modren-btn {
     box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.3);
@@ -2235,7 +2238,7 @@ blockquote {
     font-weight: bold;
 }
 .header-8 {
-    background-color: rgba(0, 79, 109, 0.6);
+    background-color: rgba(0, 47, 65, 1.0);
     float: left;
     padding: 25px 0;
     text-align: center;
@@ -2365,7 +2368,7 @@ blockquote {
     color: #fff;
 }
 .pick-event {
-    background-color: #ededed;
+    background-color: #004f6d;
     float: left;
     padding: 20px 0;
 }
@@ -2414,7 +2417,7 @@ blockquote {
     width: 100%;
 }
 .pick-event .form .cover i {
-    color: #bbbbbb;
+    color: #002f41;
     position: absolute;
     right: 20px;
     top: 13px;
@@ -2565,8 +2568,8 @@ blockquote {
     width: 100%;
 }
 .heading h2 {
-    color: #000;
-    font-family: "Open Sans",sans-serif;
+    color: #e1b642;
+    font-family: nexa;
     font-size: 33px;
     position: relative;
 }
@@ -2991,11 +2994,11 @@ section {
     text-align: center;
 }
 .kd-counter ul li i {
-    color: #ffffff;
+    color: #e1b642;
     margin: 0 0 18px;
 }
 .kd-counter ul li span {
-    color: #ffffff;
+    color: #e1b642;
     display: block;
     font-size: 50px;
     font-weight: bold;
@@ -3004,7 +3007,7 @@ section {
     position: relative;
 }
 .kd-counter ul li span::before {
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #e1b642;
     bottom: 0;
     content: "";
     height: 3px;
@@ -3014,7 +3017,9 @@ section {
     width: 80px;
 }
 .kd-counter ul li small {
-    color: #ffffff;
+    color: #e1b642;
+    font-family: nexa;
+    font-weight: bold;
     font-size: 16px;
     text-transform: uppercase;
 }
