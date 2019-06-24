@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'nexa';
+    font-family: 'nexa_lightregular';
     src: url('./fonts/nexa_light-webfont.woff2') format('woff2'),
          url('./fonts/nexa_light-webfont.woff') format('woff');
     font-weight: normal;
@@ -2311,7 +2311,7 @@ blockquote {
     color: #e1b642;
     display: flex;
     font-size: 17px;
-    font-weight: bold;
+    font-family: 'nexa_boldregular';
     padding: 15px 16px;
     text-decoration: none;
     text-transform: uppercase;
