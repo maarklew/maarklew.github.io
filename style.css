@@ -22,6 +22,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 header{
     float: left;
@@ -30,7 +31,8 @@ header{
 .kode-topbar {
     background-color: #004f6d;
     float: left;
-    font-size: 10px;
+    font-family: 'nexa_lightregular';
+    font-size: 15px;
     position: relative;
     width: 100%;
 }
@@ -65,7 +67,9 @@ header{
 }
 .kode_bg_white strong {
     color: #e1b642;
-    letter-spacing: 5px;
+    letter-spacing: 7px;
+    font-family: 'nexa_lightregular';
+    font-size: 8px;
 
 }
 .kode-userinfo {
@@ -275,7 +279,7 @@ header{
     width: 100%;
 }
 .modal-header h4 {
-    color: #ffffff;
+    color: #00182f;
     text-transform: uppercase;
 }
 .kode-loginform {
@@ -322,10 +326,10 @@ header{
 }
 .kode-loginform p input[type="submit"] {
     border: 7px solid;
-    box-shadow: 0 0 0 1px #000 inset;
-    color: #000;
+    box-shadow: 0 0 0 1px #00182f inset;
+    color: #00182f;
     float: right;
-    font-weight: bold;
+    font-family: 'nexa_boldtregular'
     padding: 5px 30px;
     text-transform: uppercase;
 }
@@ -422,7 +426,8 @@ header{
     top: 0;
 }
 .kode-caption p {
-    color: #ffffff;
+    color: #fff;
+    font-family: 'nexa_lightregular';
     display: inline-block;
     margin-bottom: 25px;
     width: 70%;
@@ -751,8 +756,7 @@ header{
     color: #e1b642;
     display: inline-block;
     padding: 14px 42px 15px;
-    font-family: nexa;
-    font-weight: bold;
+    font-family: 'nexa_boldregular';
     font-size: 18px;
 }
 .kode-team-list .kode-modren-btn {
@@ -1030,10 +1034,11 @@ header{
     opacity: 0.6;
 }
 .kode-time-zoon time {
-    background-color: #2f2f2f;
+    background-color: #e1b642;
     color: #ffffff;
     float: left;
     font-size: 32px;
+    font-family: 'nexa_boldregular';
     margin-right: 18px;
     padding: 10px 0 6px;
     text-align: center;
@@ -2070,7 +2075,7 @@ blockquote {
 }
 .kode-newslatter h3 {
     color: #ffffff;
-    float: left;
+    text-align: center;
     font-size: 36px;
     font-weight: 300;
     margin: 0;
@@ -2401,9 +2406,8 @@ blockquote {
     margin: 5px 0;
 }
 .pick-event .heading h2 {
-    font-family: "Raleway",sans-serif;
+    font-family: 'nexa_boldregular';
     font-size: 20px;
-    font-weight: bold;
     margin: 6px 0;
     text-transform: uppercase;
 }
@@ -2428,8 +2432,9 @@ blockquote {
     list-style: outside none none;
 }
 .pick-event .form .cover .kode-modren-btn.thbg-colortwo {
+    font-family: 'nexa_boldregular';
     font-size: 18px;
-    padding: 0 10px;
+    padding: 3px 10px;
     text-align: center;
     width: 100%;
 }
@@ -2456,6 +2461,8 @@ blockquote {
 }
 .pick-event .cover .dropdown button {
     background-color: #fff;
+    font-family: 'nexa_boldregular';
+    color:#002f41;
     border: medium none;
     min-height: 42px;
     padding: 10px;
@@ -2549,7 +2556,7 @@ blockquote {
     text-transform: uppercase;
 }
 .heading-12 h2::before {
-    border-bottom: 1px dashed #b7b7b7;
+    border-bottom: 1px dashed #fff;
     bottom: 0;
     content: "";
     height: 2px;
@@ -2560,14 +2567,14 @@ blockquote {
     width: 150px;
 }
 .heading-12 p {
-    color: #949494;
-    font-family: "Open Sans",sans-serif;
+    color: #fff;
+    font-family: 'nexa_lightregular';
     font-size: 14px;
     margin: 0;
     text-transform: uppercase;
 }
 .heading-12 span.left, .heading-12 span.right {
-    background-color: #db2d14;
+    background-color: #00182f;
     border-radius: 100%;
     bottom: -4px;
     height: 9px;
@@ -3018,7 +3025,7 @@ section {
     color: #e1b642;
     display: block;
     font-size: 50px;
-    font-weight: bold;
+    font-family: 'nexa_lightregular';
     margin-bottom: 5px;
     padding: 0 0 16px;
     position: relative;
@@ -3035,8 +3042,7 @@ section {
 }
 .kd-counter ul li small {
     color: #e1b642;
-    font-family: nexa;
-    font-weight: bold;
+    font-family: 'nexa_lightregular';
     font-size: 16px;
     text-transform: uppercase;
 }

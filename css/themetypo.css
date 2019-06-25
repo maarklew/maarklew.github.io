@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
 @import url(https://fonts.googleapis.com/css?family=Andada);
 @import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+
 /*
     font-family: 'Oswald', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
@@ -14,7 +15,7 @@
 */
 body {
     color: #505050;
-    font-family: 'Nexa Light';
+    font-family: 'nexa_lightregular';
     font-size: 14px;
     font-weight: normal;
     background-color: #ffff;
@@ -23,8 +24,9 @@ body {
 
 /* Heading Typo */
 body h1, body h2, body h3, body h4, body h5, body h6 {
-    color: #333333;
-    font-family: 'Oswald', sans-serif;
+    color: #00182f;
+    font-family: 'nexa_boldregular';
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -56,11 +58,13 @@ h6 {
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color: #333333;
+    color: #00182f;
 }
 
 p a {
-    color: #333333;
+    color: #00182f;
+    font-family: 'nexa_lightregular';
+    color:#004f6d;
 }
 /* Peragraph Typo */
 p {
@@ -70,7 +74,7 @@ p {
 }
 
 a {
-    color: #333333;
+    color: #00182f;
     text-decoration: none;
 }
 
@@ -99,7 +103,7 @@ img {
 }
 
 strong {
-    color: #333333;
+    color: #00182f;
 }
 
 iframe {
@@ -110,7 +114,7 @@ iframe {
 /* Form Input Typo */
 select {
     border: 1px solid #d2d2d2;
-    color: #666666;
+    color: #00182f;
     cursor: pointer;
     display: inline-block;
     font-size: 14px;
@@ -121,7 +125,7 @@ select {
 }
 
 label {
-    color: #333333;
+    color: #00182f;
     display: block;
     font-weight: 400;
     margin-bottom: 10px;
@@ -136,7 +140,7 @@ textarea, input[type="text"], input[type="password"], input[type="datetime"], in
       -webkit-box-sizing: border-box;
         box-sizing: border-box;
     border: 1px solid #d2d2d2;
-    color: #3d3d3d;
+    color: #00182f;
     display: inline-block;
     font-size: 12px;
     font-weight: 400;
@@ -154,7 +158,7 @@ form p {
 }
 
 form p span i {
-    color: #474747;
+    color: #00182f;
     left: 16px;
     position: absolute;
     top: 13px;
@@ -259,10 +263,10 @@ address {
     float: left;
     width: 100%;
 }
-::-webkit-input-placeholder {color: #666666;}
-:-moz-placeholder { color: #666666; opacity: 1; }
-::-moz-placeholder { color: #666666; opacity: 1; }
-:-ms-input-placeholder {color: #666666;}
+::-webkit-input-placeholder {color: #00182f;}
+:-moz-placeholder { color: #00182f; opacity: 1; }
+::-moz-placeholder { color: #00182f; opacity: 1; }
+:-ms-input-placeholder {color: #00182f;}
 
 .kode-newslatter ::-webkit-input-placeholder,header ::-webkit-input-placeholder,footer ::-webkit-input-placeholder {color: #fff;}
 .kode-newslatter :-moz-placeholder,header :-moz-placeholder,footer :-moz-placeholder { color: #fff; opacity: 1; }
@@ -374,7 +378,7 @@ audio, video {
 	padding: 10px 0px 10px 0px;
 }
 .kode-bg-color{
-	background-color: #373737;
+	background-color: #00182f;
 }
 .kode-bg-pattern{
 	background:url(../extra-images/pattren-bg1.jpg);
@@ -415,7 +419,7 @@ audio, video {
 	margin-top:30px;
 }
 .color-black{
-	color:#000;
+	color:#00182f;
 }
 .color-white{
 	color:#fff;

@@ -8,7 +8,7 @@
     color: #004f6d !important;
 }
 
-.heading-12 span.left, .heading-12 span.right, .thbg-color,.thbg-colorhover:hover,.navbar-nav > li > a:before,.owl-nav div:hover,.kode-team-network li a:hover,
+.heading-12 span.left, .heading-12 span.right,.thbg-colorhover:hover,.navbar-nav > li > a:before,.owl-nav div:hover,.kode-team-network li a:hover,
 .kode-team-list figure:hover figcaption h2 a,.kode-services ul li:hover .service-info,.kode-table thead,
 .kode-blog-list ul li:hover .kode-time-zoon time,.kode-blog-list ul li:hover .kode-time-zoon:before,.kode-bottom-footer,
 .children > li:hover > a,.pagination a:hover,.pagination span,.widget-tabnav li a:before,.widget-recent-news ul li:hover time,
@@ -22,6 +22,7 @@
 .kode-widget-title h2,.widget-recent-news ul li:hover time,blockquote,.kode-inner-fixer,
 #koderespond form p input[type="button"],#koderespond form p input[type="submit"],.kode-header-three .navbar-nav > li > a::before {
     border-color: #004f6d !important;
+    font-family: 'nexa_boldregular';
 }
 .tab-widget {
     box-shadow: 0px 2px 0px 0px #004f6d,0px 2px 0px 0px #004f6d inset;
