@@ -324,13 +324,14 @@ header{
     border-top: 1px solid #dfdfdf;
     padding: 18px 0 0;
 }
-.kode-loginform p input[type="submit"] {
+.kode-loginform p input[type="submit"] 
+{
     border: 7px solid;
     box-shadow: 0 0 0 1px #00182f inset;
     color: #00182f;
     float: right;
     font-family: 'nexa_boldtregular'
-    padding: 5px 30px;
+    /*padding: 5px 30px; */
     text-transform: uppercase;
 }
 .close {
