@@ -206,7 +206,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_menu .nav_list ul li a:hover{color: #E9204F;}
+.beker_tm_menu .nav_list ul li a:hover{color: #d4d40d;}
 .beker_tm_hero_wrap{
 	width: 100%;
 	height: 100vh;
@@ -383,7 +383,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	left: 50%;
 	bottom: 0px;
 	
@@ -399,7 +399,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	right: 50%;
 	bottom: 0px;
 	
@@ -413,7 +413,7 @@ img.svg{
 .beker_tm_services ul li .inner .svg{
 	width: 40px;
 	height: 40px;
-	color: #E9204F;
+	color: #d4d40d;
 }
 .beker_tm_services ul li .inner h3{
 	font-size: 22px;
@@ -492,7 +492,7 @@ img.svg{
 	left: 0px;
 	right: 0px;
 	z-index: 1;
-	background-color: rgba(233,32,79,.92);
+	background-color: rgba(212, 212, 13, 0.92);
 	opacity: 0;
 	
 	-webkit-transition: all .3s ease;
@@ -638,7 +638,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	left: 50%;
 	bottom: 0px;
 	
@@ -654,7 +654,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	right: 50%;
 	bottom: 0px;
 	
@@ -681,7 +681,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_news_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover{color: #E9204F;}
+.beker_tm_news_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover{color: #d4d40d;}
 .beker_tm_news_wrap ul li .inner .descriptions_wrap .title{margin-bottom: 14px;}
 .beker_tm_news_wrap ul li .inner .descriptions_wrap .title a{
 	text-decoration: none;
@@ -693,7 +693,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_news_wrap ul li .inner .descriptions_wrap .title a:hover{color: #E9204F;}
+.beker_tm_news_wrap ul li .inner .descriptions_wrap .title a:hover{color: #d4d40d;}
 .beker_tm_news_wrap ul li .inner .descriptions_wrap .title h3{font-size: 22px;}
 .beker_tm_news_wrap ul li .inner .descriptions_wrap .text{margin-bottom: 23px;}
 .beker_tm_news_wrap ul li .inner .descriptions_wrap .text p{color: #999;}
@@ -764,11 +764,11 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_contact_wrap .leftpart ul li span a:hover{color: #E9204F;}
+.beker_tm_contact_wrap .leftpart ul li span a:hover{color: #d4d40d;}
 .beker_tm_contact_wrap .leftpart ul li .svg{
 	width: 20px;
 	height: 20px;
-	color: #E9204F;
+	color: #d4d40d;
 }
 .beker_tm_contact_wrap .rightpart{
 	width: 100%;
@@ -851,19 +851,19 @@ img.svg{
 	border-bottom-color: rgba(255,255,255,1)
 }
 .beker_tm_contact_wrap .empty_notice{
-	color: #F52225;
+	color: #d4d40d;
 	margin-bottom: 7px;
 	display: none;
 	text-align: center;
 	font-weight: 500;
 }
 .beker_tm_contact_wrap .contact_error{
-	color: #F52225;
+	color: #d4d40d;
 	text-align: center;
 	font-weight: 500;
 }
 .beker_tm_contact_wrap .returnmessage{
-	color:#F52225;
+	color:#d4d40d;
 	margin-bottom: 7px;
 	text-align: center;
 	font-weight: 500;
@@ -1019,7 +1019,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	left: 50%;
 	bottom: 0px;
 	
@@ -1035,7 +1035,7 @@ img.svg{
 	content: "";
 	width: 0%;
 	height: 3px;
-	background-color: #E9204F;
+	background-color: #d4d40d;
 	right: 50%;
 	bottom: 0px;
 	
@@ -1062,7 +1062,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_news_list_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover{color: #E9204F;}
+.beker_tm_news_list_wrap ul li .inner .descriptions_wrap .date_wrap span a:hover{color: #d4d40d;}
 .beker_tm_news_list_wrap ul li .inner .descriptions_wrap .title{margin-bottom: 14px;}
 .beker_tm_news_list_wrap ul li .inner .descriptions_wrap .title a{
 	text-decoration: none;
@@ -1074,7 +1074,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_news_list_wrap ul li .inner .descriptions_wrap .title a:hover{color: #E9204F;}
+.beker_tm_news_list_wrap ul li .inner .descriptions_wrap .title a:hover{color: #d4d40d;}
 .beker_tm_news_list_wrap ul li .inner .descriptions_wrap .title h3{font-size: 22px;}
 .beker_tm_news_list_wrap ul li .inner .descriptions_wrap .text{margin-bottom: 23px;}
 .beker_tm_news_list_wrap ul li .inner .descriptions_wrap .text p{color: #999;}
@@ -1398,9 +1398,9 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_news_single_wrap .news_content .short_details ul li a:hover{color: #E9204F;}
+.beker_tm_news_single_wrap .news_content .short_details ul li a:hover{color: #d4d40d;}
 .beker_tm_news_single_wrap .news_content .short_details ul li .svg{
-	color: #E9204F;
+	color: #d4d40d;
 	position: relative;
 	top: 2px;
 }
@@ -1429,7 +1429,7 @@ img.svg{
 }
 .beker_tm_news_single_wrap .news_content .desriptions_wrap blockquote{
 	margin-bottom: 13px;
-	border-left: 3px solid #E9204F;
+	border-left: 3px solid #d4d40d;
 	padding: 10px 0px 10px 20px;
 	font-style: italic;
 }
@@ -1591,7 +1591,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_commentbox_wrap .wp .text a:hover{color: #E9204F;}
+.beker_tm_commentbox_wrap .wp .text a:hover{color: #d4d40d;}
 .beker_tm_commentbox_wrap .reply_comment_wrap{
 	width: 100%;
 	height: 200px;
@@ -1742,7 +1742,7 @@ img.svg{
 	position: absolute;
 	left: 0px;
 	top: 9px;
-	color: #E9204F;
+	color: #d4d40d;
 }
 .beker_tm_portfolio_single_wrap .single_descriptions_wrap .rightbox ul li span.second a{
 	text-decoration: none;
@@ -1804,7 +1804,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.beker_tm_pagination_wrap a:hover{color: #E9204F;}
+.beker_tm_pagination_wrap a:hover{color: #d4d40d;}
 
 /*---------------------------------------------------*/
 /*	13) BEKER INTRO PAGE
@@ -1887,7 +1887,7 @@ img.svg{
 	color: #fff;
 	font-size: 22px;
 }
-.beker_tm_intro_wrap ul li .inner:hover h3{color: #E9204F;}
+.beker_tm_intro_wrap ul li .inner:hover h3{color: #d4d40d;}
 
 .buy_now a{
 	text-decoration: none;
@@ -1902,7 +1902,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.buy_now a:hover{color:#E9204F;}
+.buy_now a:hover{color:#d4d40d;}
 
 .beker_tm_main_title{
 	width: 100%;
@@ -1915,7 +1915,7 @@ img.svg{
 .beker_tm_main_title.hero{padding-bottom: 0px;}
 .beker_tm_main_title span{
 	text-transform: uppercase;
-	color: #E9204F;
+	color: #d4d40d;
 	font-size: 14px;
 	font-weight: 600;
 	font-family: "Saira";
@@ -1954,7 +1954,7 @@ img.svg{
 	font-weight: 500;
 	transition: all .3s ease;
 }
-.to_home a:hover{color: #E9204F;}
+.to_home a:hover{color: #d4d40d;}
 
 /*---------------------------------------------------*/
 /*	13) BEKER MEDIA QUERIES (FOR SMALL DEVIVES)
