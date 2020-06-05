@@ -138,6 +138,47 @@ pre code { white-space: pre-wrap; }
 /*	02) FORM ELEMENTS
 /*------------------------------------------------------------------*/
 
+html
+{
+  height:100%;
+  width:100%;
+}
+body{    
+  background:url('images/jurassic-coast-1089035_1920.jpg') no-repeat;
+  background-size: cover;
+  height:100%;
+
+}
+
+.form-top{
+  margin-top: 30px;
+}
+.panel{
+  box-shadow: 0 1px 6px 0 rgba(0,0,0,.12), 0 1px 6px 0 rgba(0,0,0,.12);
+  border-radius: 6px;
+    border: 0;
+}
+@-moz-document url-prefix() {
+    .form-control{
+      height: auto;
+    }
+}
+.panel-primary{
+  background-color: #2c3e50;
+  color: #fff;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    font-size: 20px;
+    background-color: #2c3e50;
+    border-color: #2c3e50;
+}
+.btn-warning{
+  background-color: transparent;
+  border-color: #bdc3c7;
+}
+
+
 textarea{
 	border-radius:0;
 	font-size:13px;
@@ -641,7 +682,7 @@ input[type="button"]{
   animation-name: flash;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @keyframes pulse {
   from {
@@ -797,7 +838,7 @@ input[type="button"]{
   animation-name: tada;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @keyframes wobble {
   from {
@@ -1819,7 +1860,7 @@ input[type="button"]{
   animation-name: jackInTheBox;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @keyframes rollIn {
   from {
@@ -1837,7 +1878,7 @@ input[type="button"]{
   animation-name: rollIn;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @keyframes rollOut {
   from {
@@ -2353,7 +2394,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-o-animation-name: swing;
 	animation-name: swing;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes wobble {
   0% { -webkit-transform: translateX(0%); }
@@ -2401,7 +2442,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-o-animation-name: wobble;
 	animation-name: wobble;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes pulse {
     0% { -webkit-transform: scale(1); }	
@@ -5167,7 +5208,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-o-animation-name: hinge;
 	animation-name: hinge;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes rollIn {
 	0% { opacity: 0; -webkit-transform: translateX(-100%) rotate(-120deg); }
@@ -5196,7 +5237,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-o-animation-name: rollIn;
 	animation-name: rollIn;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes rollOut {
     0% {

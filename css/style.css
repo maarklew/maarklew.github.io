@@ -369,8 +369,8 @@ img.svg{
 	width: 100%;
 	height: auto;
 	clear: both;
-	float: left;
-	position: relative;
+	float: center;
+	position: center;
 	background-color: #060606;
 	padding: 50px 40px;
 	border-radius: 3px;

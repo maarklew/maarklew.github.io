@@ -271,9 +271,9 @@ function beker_tm_contact_form(){
 	
 	jQuery(".contact_form #send_message").on('click', function(){
 		
-		var name 		= jQuery(".contact_form #name").val();
 		var email 		= jQuery(".contact_form #email").val();
 		var message 	= jQuery(".contact_form #message").val();
+		var name 		= jQuery(".contact_form #name").val();
 		var subject 	= jQuery(".contact_form #subject").val();
 		var success     = jQuery(".contact_form .returnmessage").data('success');
 	
